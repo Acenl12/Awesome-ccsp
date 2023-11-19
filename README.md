@@ -1,6 +1,6 @@
 # Awesome Project
 
-A collection of awesome resources for [Project Name].
+A collection of awesome resources for [CCSP].
 
 ## Table of Contents
 
