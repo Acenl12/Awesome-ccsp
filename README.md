@@ -4,21 +4,21 @@ A collection of awesome resources for [CCSP].
 
 ## Table of Contents
 
-- [Official ISC2](#introduction)
-- [Official Courses ](#getting-started)
-- [Online Learning ](#features)
-- [Free Online Learn](#contributing)
-- [Exam Prep](#license)
+- [Official ISC2](#official)
+- [Official Courses ](#Courses)
+- [Online Learning ](#Learn )
+- [Free Online Learn](#Free)
+- [Exam Prep](#Exam-Prep)
 
-## Introduction
+## Official 
 
-Briefly introduce your project and its purpose.
 
-## Getting Started
+
+## Courses
 
 Provide instructions on how to get started with the project. Include installation steps, prerequisites, and any other relevant information.
 
-## Features
+## Learn 
 
 List key features of your project.
 
@@ -26,10 +26,10 @@ List key features of your project.
 - Feature 2
 - ...
 
-## Contributing
+## Free
 
 Encourage users to contribute to your project. Include guidelines for submitting issues and pull requests.
 
-## License
+## Examprep
 
 This project is licensed under the [Creative Commons ShareAlike License](https://creativecommons.org/licenses/cc-sa/4.0/). See the [LICENSE](LICENSE) file for details.
