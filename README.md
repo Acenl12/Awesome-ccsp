@@ -4,11 +4,11 @@ A collection of awesome resources for [Project Name].
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- [Official ISC2](#introduction)
+- [Official Courses ](#getting-started)
+- [Online Learning ](#features)
+- [Free Online Learn](#contributing)
+- [Exam Prep](#license)
 
 ## Introduction
 
