@@ -11,7 +11,7 @@ A collection of awesome resources for [CCSP].
 - [Exam Prep](#Exam-Prep)
 
 ## Official 
-
+https://www.isc2.org/landing/ccsp-path
 
 
 ## Courses
