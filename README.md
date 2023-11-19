@@ -27,8 +27,7 @@ List key features of your project.
 - ...
 
 ## Free
-
-Encourage users to contribute to your project. Include guidelines for submitting issues and pull requests.
+[Inside Cloud and Security](https://youtu.be/kFZWMZIy5LM?si=aU7Y0E1o7_K9RV8L) 
 
 ## Examprep
 
