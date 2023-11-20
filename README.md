@@ -6,6 +6,7 @@ A collection of awesome resources for [CCSP].
 
 - [Official ISC2](#official)
 - [Official Courses ](#Courses)
+- [Books and study guides] (#books) 
 - [Online Learning ](#Learn )
 - [Free Online Learn](#Free)
 - [Exam Prep](#Exam-Prep)
@@ -15,6 +16,11 @@ A collection of awesome resources for [CCSP].
 
 
 ## Courses
+
+
+## [Books and study guides] (#books) 
+[CCSP (ISC)2 Certified Cloud Security Professional Official Study Guide] (https://www.amazon.com/Certified-Cloud-Security-Professional-Official/dp/1119277418) 
+
 
 
 
